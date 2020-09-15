@@ -1,0 +1,22 @@
+{
+  "name": "scaffold",
+  "version": "1.0.0",
+  "description": "Scaffold",
+  "private": true,
+  "keywords": [
+    "Mobile",
+    "Vue",
+    "TypeScript",
+    "Monorepo"
+  ],
+  "gitHooks": {
+    "pre-commit": "lerna run precommit"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dev-utils",
+  "version": "0.1.0",
+  "description": "development utils",
+  "private": true,
+  "dependencies": {
+    "chokidar": "^3.4.2",
+    "find-up": "^5.0.0",
+    "glob": "^7.1.6",
+    "lodash": "^4.17.20",
+    "mockjs": "^1.1.0",
+    "path-to-regexp": "^6.1.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "hybrid",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Hybrid, H5",
+  "scripts": {},
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.161",
+    "postcss-pxtorem": "^5.1.1"
+  },
+  "dependencies": {
+    "core": "0.1.0",
+    "core-js": "^3.6.5",
+    "lodash": "^4.17.20"
+  }
+}
